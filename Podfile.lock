@@ -1,0 +1,28 @@
+PODS:
+  - BEMCheckBox (1.2.1)
+  - Bolts/Tasks (1.8.4)
+  - Digits (2.3.0):
+    - TwitterCore (= 2.3.0)
+  - Fabric (1.6.7)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - TwitterCore (2.3.0):
+    - Fabric
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - Digits
+  - Fabric
+  - Parse
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 264b8b72aa92adbfefa265cc58a0cdb86b207b9f
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Digits: af82d24ec38035cc555b60f55cca5abc68a76bed
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  TwitterCore: 817eae3e291fa4125b47789e26a4f6f024115c1f
+
+PODFILE CHECKSUM: 30b7d7ee75ccc94c5a4502dd5e43aee3371f8285
+
+COCOAPODS: 1.0.1
